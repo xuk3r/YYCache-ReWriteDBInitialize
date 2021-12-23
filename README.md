@@ -1,0 +1,2 @@
+# YYCache-ReWriteDBInitialize
+YYCache+ReWriteDBInitialize
