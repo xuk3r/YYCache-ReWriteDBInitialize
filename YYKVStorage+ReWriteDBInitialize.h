@@ -1,9 +1,9 @@
 //
 //  YYKVStorage+ReWriteDBInitialize.h
-//  longbridge-ios-app
+//  
 //
 //  Created by xuke on 2021/12/23.
-//  Copyright © 2021 LongBridge. All rights reserved.
+//  Copyright © 2021. All rights reserved.
 //
 
 #import <YYCache/YYKVStorage.h>
