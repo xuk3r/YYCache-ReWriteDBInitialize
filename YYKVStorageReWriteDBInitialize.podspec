@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
   
   s.name         = "YYKVStorageReWriteDBInitialize"
-  s.version      = "0.1.4"
+  s.version      = "0.1.5"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.summary      = "YYKVStorage+ReWriteDBInitialize.h"
   s.homepage     = "https://github.com/xuk3r/YYCache-ReWriteDBInitialize"
   s.source       = { :git => "https://github.com/xuk3r/YYCache-ReWriteDBInitialize.git", :tag => "#{s.version}" }
-  s.source_files = "./*.{h,m,swift}"
+  s.source_files = "*.{h,m,swift}"
   s.requires_arc = true
   s.platform     = :ios, "10.0"
   s.dependency    "YYCache"
