@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   
-  s.name         = "YYKVStorage-ReWriteDBInitialize"
-  s.version      = "0.1.3"
+  s.name         = "YYKVStorage+ReWriteDBInitialize"
+  s.version      = "0.1.2"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.summary      = "YYKVStorage+ReWriteDBInitialize.h"
   s.homepage     = "https://github.com/xuk3r/YYCache-ReWriteDBInitialize"
